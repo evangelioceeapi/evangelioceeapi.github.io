@@ -1,0 +1,212 @@
+<passages>
+    <passage id="0">
+        <title>Genealogía</title>
+        <book>mateo</book>
+        <chapter>1</chapter>
+        <initVerse>1</initVerse>
+        <endVerse>17</endVerse>
+    </passage>
+    <passage id="1">
+        <title>Anuncio a José</title>
+        <book>mateo</book>
+        <chapter>1</chapter>
+        <initVerse>18</initVerse>
+        <endVerse>25</endVerse>
+    </passage>
+    <passage id="2">
+        <title>Visita de los Magos</title>
+        <book>mateo</book>
+        <chapter>2</chapter>
+        <initVerse>1</initVerse>
+        <endVerse>12</endVerse>
+    </passage>
+    <passage id="3">
+        <title>Huida a Egipto y matanza de los inocentes</title>
+        <book>mateo</book>
+        <chapter>2</chapter>
+        <initVerse>13</initVerse>
+        <endVerse>23</endVerse>
+    </passage>
+    <passage id="4">
+        <title>Presentación y actividad de Juan el Bautista</title>
+        <book>mateo</book>
+        <chapter>3</chapter>
+        <initVerse>1</initVerse>
+        <endVerse>12</endVerse>
+    </passage>
+    <passage id="5">
+        <title>Bautismo de Jesús</title>
+        <book>mateo</book>
+        <chapter>3</chapter>
+        <initVerse>13</initVerse>
+        <endVerse>17</endVerse>
+    </passage>
+    <passage id="6">
+        <title>Tentaciones de Jesús</title>
+        <book>mateo</book>
+        <chapter>4</chapter>
+        <initVerse>1</initVerse>
+        <endVerse>11</endVerse>
+    </passage>
+    <passage id="7">
+        <title>Vuelta a Galilea</title>
+        <book>mateo</book>
+        <chapter>4</chapter>
+        <initVerse>12</initVerse>
+        <endVerse>17</endVerse>
+    </passage>
+    <passage id="8">
+        <title>Llamamiento de los primeros discípulos</title>
+        <book>mateo</book>
+        <chapter>4</chapter>
+        <initVerse>18</initVerse>
+        <endVerse>22</endVerse>
+    </passage>
+    <passage id="9">
+        <title>Jesús, Mesías poderoso en palabras y en obras</title>
+        <book>mateo</book>
+        <chapter>4</chapter>
+        <initVerse>23</initVerse>
+        <endVerse>25</endVerse>
+    </passage>
+    <passage id="10">
+        <title>Las bienaventuranzas</title>
+        <book>mateo</book>
+        <chapter>5</chapter>
+        <initVerse>1</initVerse>
+        <endVerse>12</endVerse>
+    </passage>
+    <passage id="11">
+        <title>Los discípulos, sal y luz</title>
+        <book>mateo</book>
+        <chapter>5</chapter>
+        <initVerse>13</initVerse>
+        <endVerse>16</endVerse>
+    </passage>
+    <passage id="12">
+        <title>Jesús y la ley</title>
+        <book>mateo</book>
+        <chapter>5</chapter>
+        <initVerse>17</initVerse>
+        <endVerse>48</endVerse>
+    </passage>
+    <passage id="13">
+        <title>Limosna, oración y ayuno</title>
+        <book>mateo</book>
+        <chapter>6</chapter>
+        <initVerse>1</initVerse>
+        <endVerse>18</endVerse>
+    </passage>
+    <passage id="14">
+        <title>Riquezas y preocupaciones</title>
+        <book>mateo</book>
+        <chapter>6</chapter>
+        <initVerse>19</initVerse>
+        <endVerse>34</endVerse>
+    </passage>
+    <passage id="15">
+        <title>Advertencias</title>
+        <book>mateo</book>
+        <chapter>7</chapter>
+        <initVerse>1</initVerse>
+        <endVerse>6</endVerse>
+    </passage>
+    <passage id="16">
+        <title>La recta conducta</title>
+        <book>mateo</book>
+        <chapter>7</chapter>
+        <initVerse>13</initVerse>
+        <endVerse>27</endVerse>
+    </passage>
+    <passage id="17">
+        <title>Curación de un lepreoso</title>
+        <book>mateo</book>
+        <chapter>8</chapter>
+        <initVerse>1</initVerse>
+        <endVerse>4</endVerse>
+    </passage>
+    <passage id="18">
+        <title>Curación del criado del centurión</title>
+        <book>mateo</book>
+        <chapter>8</chapter>
+        <initVerse>5</initVerse>
+        <endVerse>13</endVerse>
+    </passage>
+    <passage id="19">
+        <title>Curación de la suegra de Pedro</title>
+        <book>mateo</book>
+        <chapter>8</chapter>
+        <initVerse>14</initVerse>
+        <endVerse>15</endVerse>
+    </passage>
+    <passage id="20">
+        <title>Algunas vocaciones</title>
+        <book>mateo</book>
+        <chapter>8</chapter>
+        <initVerse>18</initVerse>
+        <endVerse>22</endVerse>
+    </passage>
+    <passage id="21">
+        <title>La tempestad calmada</title>
+        <book>mateo</book>
+        <chapter>8</chapter>
+        <initVerse>23</initVerse>
+        <endVerse>27</endVerse>
+    </passage>
+    <passage id="22">
+        <title>Los endemoniados de Gadara</title>
+        <book>mateo</book>
+        <chapter>8</chapter>
+        <initVerse>28</initVerse>
+        <endVerse>34</endVerse>
+    </passage>
+    <passage id="23">
+        <title>Curación de un paralítico</title>
+        <book>mateo</book>
+        <chapter>9</chapter>
+        <initVerse>1</initVerse>
+        <endVerse>8</endVerse>
+    </passage>
+    <passage id="24">
+        <title>Vocación de Mateo y comida en su casa</title>
+        <book>mateo</book>
+        <chapter>9</chapter>
+        <initVerse>9</initVerse>
+        <endVerse>13</endVerse>
+    </passage>
+    <passage id="25">
+        <title>Discusión sobre el ayuno</title>
+        <book>mateo</book>
+        <chapter>9</chapter>
+        <initVerse>14</initVerse>
+        <endVerse>17</endVerse>
+    </passage>
+    <passage id="26">
+        <title>La hemorroísa y la hija de un personaje notable</title>
+        <book>mateo</book>
+        <chapter>9</chapter>
+        <initVerse>18</initVerse>
+        <endVerse>26</endVerse>
+    </passage>
+    <passage id="27">
+        <title>Curación de dos ciegos</title>
+        <book>mateo</book>
+        <chapter>9</chapter>
+        <initVerse>27</initVerse>
+        <endVerse>31</endVerse>
+    </passage>
+    <passage id="28">
+        <title>Reacción ante las obras de Jesús</title>
+        <book>mateo</book>
+        <chapter>9</chapter>
+        <initVerse>32</initVerse>
+        <endVerse>34</endVerse>
+    </passage>
+    <passage id="29">
+        <title>Misión e instrucción a los Doce</title>
+        <book>mateo</book>
+        <chapter>10</chapter>
+        <initVerse>1</initVerse>
+        <endVerse>15</endVerse>
+    </passage>
+</passages>
