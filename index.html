@@ -45,7 +45,7 @@
         function randomPassage(passagesData, evangelioData) {
             var parser = new DOMParser();
             var passagesDoc = parser.parseFromString(passagesData, "text/xml");
-
+            
             var passages = Array.from(passagesDoc.getElementsByTagName("passage"));
             var passage = randomElement(passages);
 
@@ -73,21 +73,22 @@
             return result;
         }
 
-        // Modificación para devolver un objeto JSON
-        function randomVerse(xmlData) {
-        var parser = new DOMParser();
-        var xmlDoc = parser.parseFromString(xmlData, "text/xml");
+            // Modificación para devolver un objeto JSON
+            function randomVerse(xmlData) 
+            {
+            var parser = new DOMParser();
+            var xmlDoc = parser.parseFromString(xmlData, "text/xml");
 
-        var books = Array.from(xmlDoc.getElementsByTagName("book"));
-        var book = randomElement(books);
-        var chapters = Array.from(book.getElementsByTagName("chapter"));
-        var chapter = randomElement(chapters);
-        var verses = Array.from(chapter.getElementsByTagName("verse"));
-        var verse = randomElement(verses);
+            var books = Array.from(xmlDoc.getElementsByTagName("book"));
+            var book = randomElement(books);
+            var chapters = Array.from(book.getElementsByTagName("chapter"));
+            var chapter = randomElement(chapters);
+            var verses = Array.from(chapter.getElementsByTagName("verse"));
+            var verse = randomElement(verses);
 
-        var reference = `${book.getAttribute("name")} ${chapter.getAttribute("number")},${verse.getAttribute("number")}`;
-        return { text: verse.textContent || 'Verse not found', reference: reference };
-        }
+            var reference = `${book.getAttribute("name")} ${chapter.getAttribute("number")},${verse.getAttribute("number")}`;
+            return { text: verse.textContent || 'Verse not found', reference: reference };
+            }
 
         // Función para cargar los archivos XML y encontrar el versículo o pasaje
         function loadXMLAndFindVerseOrPassage(evangelioFilePath, pasajesFilePath) {
