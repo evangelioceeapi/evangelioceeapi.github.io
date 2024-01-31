@@ -61,4 +61,4 @@ The response is a JSON object containing the following fields:
     "title": "The Creation of the World"
 }
 ```
-Ángel R. Rubio F. - Madrid, 2024 Laus Deo, Virginique Matri
+Ángel R. Rubio F. - Madrid, 2024 - Laus Deo, Virginique Matri
