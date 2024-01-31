@@ -1,5 +1,5 @@
 
-# CEE Gospel Passage API Documentation
+# Evangelio CEE API Documentation
 
 ## Overview
 This API allows users to retrieve Bible verses and passages from an XML file. It supports fetching a single verse, a random verse, or a random passage. The API can also include the passage name based on a URL parameter.
@@ -61,3 +61,4 @@ The response is a JSON object containing the following fields:
     "title": "The Creation of the World"
 }
 ```
+Ángel R. Rubio F. - Madrid, 2024 Laus Deo, Virginique Matri
