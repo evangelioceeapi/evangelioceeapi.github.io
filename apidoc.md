@@ -1,5 +1,5 @@
 
-# Bible Passage API Documentation
+# CEE Gospel Passage API Documentation
 
 ## Overview
 This API allows users to retrieve Bible verses and passages from an XML file. It supports fetching a single verse, a random verse, or a random passage. The API can also include the passage name based on a URL parameter.
@@ -18,7 +18,7 @@ Retrieves a specific verse from the Bible.
 
 **Example Usage:**
 ```
-http://localhost:8000/?mode=singleverse&book=mateo&chapter=1&verse=1
+http://evangelioceeapi.github.io/?mode=singleverse&book=mateo&chapter=1&verse=1
 ```
 
 ### Random Verse
@@ -30,7 +30,7 @@ Retrieves a random verse from the Bible.
 
 **Example Usage:**
 ```
-http://localhost:8000/?mode=randomverse
+http://evangelioceeapi.github.io:8000/?mode=randomverse
 ```
 
 ### Random Passage
@@ -43,7 +43,7 @@ Retrieves a random passage from the Bible. Optionally includes the passage name.
 
 **Example Usage:**
 ```
-http://localhost:8000/?mode=randompassage&showName=1
+http://evangelioceeapi.github.io/?mode=randompassage&showName=1
 ```
 
 ## Response Format
