@@ -1,0 +1,68 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    min-height: 100vh;
+}
+
+#jsonContainer {
+    width: 80%;
+    max-width: 600px;
+    margin-top: 20px; /* Espacio en la parte superior */
+    background-color: white;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    position: relative; /* Para la posición del botón si es necesario */
+}
+
+h1 {
+    color: #444;
+    font-size: 24px;
+    margin-bottom: 0.5em;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 1em; /* Asegurar espacio entre el párrafo y el botón */
+}
+
+#reloadButton {
+    display: block;
+    margin: 20px auto 0; /* Margen arriba, auto en los lados, y sin margen abajo */
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: #333;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    max-width: 95%; /* Ajustar al ancho del contenedor */
+    box-sizing: border-box; /* Para incluir el padding en el ancho */
+}
+
+#reloadButton:hover {
+    background-color: #555;
+}
+
+@media (max-width: 768px) {
+    #jsonContainer {
+        width: 95%;
+    }
+
+    h1 {
+        font-size: 20px;
+    }
+
+    p {
+        font-size: 14px;
+    }
+}
