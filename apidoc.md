@@ -1,4 +1,3 @@
-
 # Evangelio CEE API Documentation
 
 ## Overview
